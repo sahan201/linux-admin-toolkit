@@ -41,3 +41,5 @@ Safely perform routine maintenance with built-in confirmation prompts to prevent
    ```bash
    git clone [https://github.com/sahan201/linux-admin-toolkit.git]
    cd linux-admin-toolkit
+   chmod +x admin_toolkit.sh (make the Script Executable)
+   ./admin_toolkit.sh
